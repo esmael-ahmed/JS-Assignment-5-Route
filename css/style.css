@@ -1,0 +1,40 @@
+.sec {
+    background-color: #1E202B;
+    height: 100vh;
+    background-image: url(../images/banner.png);
+    background-repeat: no-repeat;
+}
+body {
+    background-color: #1E202B;
+}
+
+nav {
+    background-color: #1E202B !important;
+    padding: 30px;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+nav img {
+    cursor: pointer;
+}
+
+.card-h {
+    background-color: #2D303D;
+    height: 2rem !important;
+}
+
+.card {
+    background-color: #323544;
+    color:white;
+    height: 330px !important;
+}
+
+#currentTemp {
+    font-size: 5.625rem;
+    font-weight: 700;
+}
+
+
